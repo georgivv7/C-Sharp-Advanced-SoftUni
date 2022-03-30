@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\bin\Debug\netcoreapp3.1\01. KeyRevolver.exe
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\bin\Debug\netcoreapp3.1\01. KeyRevolver.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\bin\Debug\netcoreapp3.1\01. KeyRevolver.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\bin\Debug\netcoreapp3.1\01. KeyRevolver.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\bin\Debug\netcoreapp3.1\01. KeyRevolver.dll
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\bin\Debug\netcoreapp3.1\01. KeyRevolver.pdb
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\obj\Debug\netcoreapp3.1\01. KeyRevolver.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\obj\Debug\netcoreapp3.1\01. KeyRevolver.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\obj\Debug\netcoreapp3.1\01. KeyRevolver.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\obj\Debug\netcoreapp3.1\01. KeyRevolver.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\obj\Debug\netcoreapp3.1\01. KeyRevolver.dll
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\obj\Debug\netcoreapp3.1\01. KeyRevolver.pdb
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\01. KeyRevolver\obj\Debug\netcoreapp3.1\01. KeyRevolver.genruntimeconfig.cache

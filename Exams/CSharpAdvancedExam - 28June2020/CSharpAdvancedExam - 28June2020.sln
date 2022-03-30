@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Bombs", "01. Bombs\01. Bombs.csproj", "{0FB63D07-1DC7-4408-8588-B67AA87B844E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Snake", "02. Snake\02. Snake.csproj", "{E261272E-96E0-427F-AC95-AEA2A8599E40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking", "Parking\Parking.csproj", "{CA84AB87-865F-4977-B86E-1ABC9D8D16AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FB63D07-1DC7-4408-8588-B67AA87B844E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB63D07-1DC7-4408-8588-B67AA87B844E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB63D07-1DC7-4408-8588-B67AA87B844E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB63D07-1DC7-4408-8588-B67AA87B844E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E261272E-96E0-427F-AC95-AEA2A8599E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E261272E-96E0-427F-AC95-AEA2A8599E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E261272E-96E0-427F-AC95-AEA2A8599E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E261272E-96E0-427F-AC95-AEA2A8599E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA84AB87-865F-4977-B86E-1ABC9D8D16AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA84AB87-865F-4977-B86E-1ABC9D8D16AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA84AB87-865F-4977-B86E-1ABC9D8D16AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA84AB87-865F-4977-B86E-1ABC9D8D16AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FE4F1EE-A7F8-4972-9D0B-B725E0A2F2B3}
+	EndGlobalSection
+EndGlobal

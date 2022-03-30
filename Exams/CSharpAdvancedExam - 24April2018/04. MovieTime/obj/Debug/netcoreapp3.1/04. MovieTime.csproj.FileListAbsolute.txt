@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\bin\Debug\netcoreapp3.1\04. MovieTime.exe
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\bin\Debug\netcoreapp3.1\04. MovieTime.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\bin\Debug\netcoreapp3.1\04. MovieTime.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\bin\Debug\netcoreapp3.1\04. MovieTime.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\bin\Debug\netcoreapp3.1\04. MovieTime.dll
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\bin\Debug\netcoreapp3.1\04. MovieTime.pdb
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\obj\Debug\netcoreapp3.1\04. MovieTime.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\obj\Debug\netcoreapp3.1\04. MovieTime.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\obj\Debug\netcoreapp3.1\04. MovieTime.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\obj\Debug\netcoreapp3.1\04. MovieTime.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\obj\Debug\netcoreapp3.1\04. MovieTime.dll
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\obj\Debug\netcoreapp3.1\04. MovieTime.pdb
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\04. MovieTime\obj\Debug\netcoreapp3.1\04. MovieTime.genruntimeconfig.cache

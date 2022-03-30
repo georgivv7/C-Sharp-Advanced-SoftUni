@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\bin\Debug\netcoreapp3.1\04. TreasureMap.exe
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\bin\Debug\netcoreapp3.1\04. TreasureMap.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\bin\Debug\netcoreapp3.1\04. TreasureMap.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\bin\Debug\netcoreapp3.1\04. TreasureMap.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\bin\Debug\netcoreapp3.1\04. TreasureMap.dll
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\bin\Debug\netcoreapp3.1\04. TreasureMap.pdb
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\obj\Debug\netcoreapp3.1\04. TreasureMap.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\obj\Debug\netcoreapp3.1\04. TreasureMap.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\obj\Debug\netcoreapp3.1\04. TreasureMap.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\obj\Debug\netcoreapp3.1\04. TreasureMap.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\obj\Debug\netcoreapp3.1\04. TreasureMap.dll
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\obj\Debug\netcoreapp3.1\04. TreasureMap.pdb
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\04. TreasureMap\obj\Debug\netcoreapp3.1\04. TreasureMap.genruntimeconfig.cache

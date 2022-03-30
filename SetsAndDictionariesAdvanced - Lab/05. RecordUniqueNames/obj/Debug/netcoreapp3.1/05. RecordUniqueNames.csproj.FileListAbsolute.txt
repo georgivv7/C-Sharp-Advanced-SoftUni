@@ -1,0 +1,13 @@
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\bin\Debug\netcoreapp3.1\05. RecordUniqueNames.exe
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\bin\Debug\netcoreapp3.1\05. RecordUniqueNames.deps.json
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\bin\Debug\netcoreapp3.1\05. RecordUniqueNames.runtimeconfig.json
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\bin\Debug\netcoreapp3.1\05. RecordUniqueNames.runtimeconfig.dev.json
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\bin\Debug\netcoreapp3.1\05. RecordUniqueNames.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\bin\Debug\netcoreapp3.1\05. RecordUniqueNames.pdb
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\obj\Debug\netcoreapp3.1\05. RecordUniqueNames.csprojAssemblyReference.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\obj\Debug\netcoreapp3.1\05. RecordUniqueNames.AssemblyInfoInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\obj\Debug\netcoreapp3.1\05. RecordUniqueNames.AssemblyInfo.cs
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\obj\Debug\netcoreapp3.1\05. RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\obj\Debug\netcoreapp3.1\05. RecordUniqueNames.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\obj\Debug\netcoreapp3.1\05. RecordUniqueNames.pdb
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\05. RecordUniqueNames\obj\Debug\netcoreapp3.1\05. RecordUniqueNames.genruntimeconfig.cache

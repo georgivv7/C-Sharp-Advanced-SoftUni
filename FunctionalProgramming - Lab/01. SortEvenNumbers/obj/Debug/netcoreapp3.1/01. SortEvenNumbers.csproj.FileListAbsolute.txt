@@ -1,0 +1,13 @@
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\bin\Debug\netcoreapp3.1\01. SortEvenNumbers.exe
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\bin\Debug\netcoreapp3.1\01. SortEvenNumbers.deps.json
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\bin\Debug\netcoreapp3.1\01. SortEvenNumbers.runtimeconfig.json
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\bin\Debug\netcoreapp3.1\01. SortEvenNumbers.runtimeconfig.dev.json
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\bin\Debug\netcoreapp3.1\01. SortEvenNumbers.dll
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\bin\Debug\netcoreapp3.1\01. SortEvenNumbers.pdb
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp3.1\01. SortEvenNumbers.csprojAssemblyReference.cache
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp3.1\01. SortEvenNumbers.AssemblyInfoInputs.cache
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp3.1\01. SortEvenNumbers.AssemblyInfo.cs
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp3.1\01. SortEvenNumbers.csproj.CoreCompileInputs.cache
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp3.1\01. SortEvenNumbers.dll
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp3.1\01. SortEvenNumbers.pdb
+D:\C# Advanced\FunctionalProgramming - Lab\01. SortEvenNumbers\obj\Debug\netcoreapp3.1\01. SortEvenNumbers.genruntimeconfig.cache

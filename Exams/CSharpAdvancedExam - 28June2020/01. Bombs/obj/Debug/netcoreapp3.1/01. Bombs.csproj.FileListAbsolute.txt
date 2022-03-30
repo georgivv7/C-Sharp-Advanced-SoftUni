@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.exe
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.dll
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\bin\Debug\netcoreapp3.1\01. Bombs.pdb
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.dll
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.pdb
+D:\C# Advanced\CSharpAdvancedExam - 28June2020\01. Bombs\obj\Debug\netcoreapp3.1\01. Bombs.genruntimeconfig.cache

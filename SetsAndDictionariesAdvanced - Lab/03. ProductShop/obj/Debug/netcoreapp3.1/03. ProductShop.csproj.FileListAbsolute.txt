@@ -1,0 +1,13 @@
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\bin\Debug\netcoreapp3.1\03. ProductShop.exe
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\bin\Debug\netcoreapp3.1\03. ProductShop.deps.json
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\bin\Debug\netcoreapp3.1\03. ProductShop.runtimeconfig.json
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\bin\Debug\netcoreapp3.1\03. ProductShop.runtimeconfig.dev.json
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\bin\Debug\netcoreapp3.1\03. ProductShop.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\bin\Debug\netcoreapp3.1\03. ProductShop.pdb
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\obj\Debug\netcoreapp3.1\03. ProductShop.csprojAssemblyReference.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\obj\Debug\netcoreapp3.1\03. ProductShop.AssemblyInfoInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\obj\Debug\netcoreapp3.1\03. ProductShop.AssemblyInfo.cs
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\obj\Debug\netcoreapp3.1\03. ProductShop.csproj.CoreCompileInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\obj\Debug\netcoreapp3.1\03. ProductShop.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\obj\Debug\netcoreapp3.1\03. ProductShop.pdb
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\03. ProductShop\obj\Debug\netcoreapp3.1\03. ProductShop.genruntimeconfig.cache

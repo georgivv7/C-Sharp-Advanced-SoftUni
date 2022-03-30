@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.exe
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.dll
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\bin\Debug\netcoreapp3.1\02. Bee.pdb
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.dll
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.pdb
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\02. Bee\obj\Debug\netcoreapp3.1\02. Bee.genruntimeconfig.cache

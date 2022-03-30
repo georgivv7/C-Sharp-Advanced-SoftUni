@@ -1,0 +1,12 @@
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\02. ReVolt\bin\Debug\netcoreapp3.1\02. ReVolt.exe
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\02. ReVolt\bin\Debug\netcoreapp3.1\02. ReVolt.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\02. ReVolt\bin\Debug\netcoreapp3.1\02. ReVolt.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\02. ReVolt\bin\Debug\netcoreapp3.1\02. ReVolt.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\02. ReVolt\bin\Debug\netcoreapp3.1\02. ReVolt.dll
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\02. ReVolt\bin\Debug\netcoreapp3.1\02. ReVolt.pdb
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\02. ReVolt\obj\Debug\netcoreapp3.1\02. ReVolt.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\02. ReVolt\obj\Debug\netcoreapp3.1\02. ReVolt.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\02. ReVolt\obj\Debug\netcoreapp3.1\02. ReVolt.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\02. ReVolt\obj\Debug\netcoreapp3.1\02. ReVolt.dll
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\02. ReVolt\obj\Debug\netcoreapp3.1\02. ReVolt.pdb
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\02. ReVolt\obj\Debug\netcoreapp3.1\02. ReVolt.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\bin\Debug\netcoreapp3.1\03. TicketTrouble.exe
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\bin\Debug\netcoreapp3.1\03. TicketTrouble.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\bin\Debug\netcoreapp3.1\03. TicketTrouble.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\bin\Debug\netcoreapp3.1\03. TicketTrouble.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\bin\Debug\netcoreapp3.1\03. TicketTrouble.dll
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\bin\Debug\netcoreapp3.1\03. TicketTrouble.pdb
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\obj\Debug\netcoreapp3.1\03. TicketTrouble.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\obj\Debug\netcoreapp3.1\03. TicketTrouble.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\obj\Debug\netcoreapp3.1\03. TicketTrouble.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\obj\Debug\netcoreapp3.1\03. TicketTrouble.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\obj\Debug\netcoreapp3.1\03. TicketTrouble.dll
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\obj\Debug\netcoreapp3.1\03. TicketTrouble.pdb
+D:\C# Advanced\CSharpAdvancedExam - 24April2018\03. TicketTrouble\obj\Debug\netcoreapp3.1\03. TicketTrouble.genruntimeconfig.cache

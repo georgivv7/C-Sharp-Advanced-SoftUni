@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\bin\Debug\netcoreapp3.1\02. CryptoMaster.exe
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\bin\Debug\netcoreapp3.1\02. CryptoMaster.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\bin\Debug\netcoreapp3.1\02. CryptoMaster.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\bin\Debug\netcoreapp3.1\02. CryptoMaster.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\bin\Debug\netcoreapp3.1\02. CryptoMaster.dll
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\bin\Debug\netcoreapp3.1\02. CryptoMaster.pdb
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\obj\Debug\netcoreapp3.1\02. CryptoMaster.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\obj\Debug\netcoreapp3.1\02. CryptoMaster.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\obj\Debug\netcoreapp3.1\02. CryptoMaster.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\obj\Debug\netcoreapp3.1\02. CryptoMaster.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\obj\Debug\netcoreapp3.1\02. CryptoMaster.dll
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\obj\Debug\netcoreapp3.1\02. CryptoMaster.pdb
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\02. CryptoMaster\obj\Debug\netcoreapp3.1\02. CryptoMaster.genruntimeconfig.cache

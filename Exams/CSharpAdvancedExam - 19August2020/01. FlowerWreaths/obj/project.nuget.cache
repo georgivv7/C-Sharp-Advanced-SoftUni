@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dm5hSTF/Kt/MP8rV6idz9l2Af/d6PnGLqgCP7PJ1X2mutIMLCPgu4Ji2IwWbd4TSNPMQHPeVeGTlEa7p13SzZQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# Advanced\\CSharpAdvancedExam - 19August2020\\01. FlowerWreaths\\01. FlowerWreaths.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.extensions\\4.3.1\\system.runtime.extensions.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

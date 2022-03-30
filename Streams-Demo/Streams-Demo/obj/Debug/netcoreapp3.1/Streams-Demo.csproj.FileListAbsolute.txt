@@ -1,0 +1,13 @@
+D:\C# Advanced\Streams-Demo\Streams-Demo\bin\Debug\netcoreapp3.1\Streams-Demo.exe
+D:\C# Advanced\Streams-Demo\Streams-Demo\bin\Debug\netcoreapp3.1\Streams-Demo.deps.json
+D:\C# Advanced\Streams-Demo\Streams-Demo\bin\Debug\netcoreapp3.1\Streams-Demo.runtimeconfig.json
+D:\C# Advanced\Streams-Demo\Streams-Demo\bin\Debug\netcoreapp3.1\Streams-Demo.runtimeconfig.dev.json
+D:\C# Advanced\Streams-Demo\Streams-Demo\bin\Debug\netcoreapp3.1\Streams-Demo.dll
+D:\C# Advanced\Streams-Demo\Streams-Demo\bin\Debug\netcoreapp3.1\Streams-Demo.pdb
+D:\C# Advanced\Streams-Demo\Streams-Demo\obj\Debug\netcoreapp3.1\Streams-Demo.csprojAssemblyReference.cache
+D:\C# Advanced\Streams-Demo\Streams-Demo\obj\Debug\netcoreapp3.1\Streams-Demo.AssemblyInfoInputs.cache
+D:\C# Advanced\Streams-Demo\Streams-Demo\obj\Debug\netcoreapp3.1\Streams-Demo.AssemblyInfo.cs
+D:\C# Advanced\Streams-Demo\Streams-Demo\obj\Debug\netcoreapp3.1\Streams-Demo.csproj.CoreCompileInputs.cache
+D:\C# Advanced\Streams-Demo\Streams-Demo\obj\Debug\netcoreapp3.1\Streams-Demo.dll
+D:\C# Advanced\Streams-Demo\Streams-Demo\obj\Debug\netcoreapp3.1\Streams-Demo.pdb
+D:\C# Advanced\Streams-Demo\Streams-Demo\obj\Debug\netcoreapp3.1\Streams-Demo.genruntimeconfig.cache

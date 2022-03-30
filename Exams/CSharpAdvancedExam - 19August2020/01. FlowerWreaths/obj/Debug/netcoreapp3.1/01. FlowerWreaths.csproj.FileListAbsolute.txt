@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\bin\Debug\netcoreapp3.1\01. FlowerWreaths.exe
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\bin\Debug\netcoreapp3.1\01. FlowerWreaths.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\bin\Debug\netcoreapp3.1\01. FlowerWreaths.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\bin\Debug\netcoreapp3.1\01. FlowerWreaths.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\bin\Debug\netcoreapp3.1\01. FlowerWreaths.dll
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\bin\Debug\netcoreapp3.1\01. FlowerWreaths.pdb
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\obj\Debug\netcoreapp3.1\01. FlowerWreaths.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\obj\Debug\netcoreapp3.1\01. FlowerWreaths.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\obj\Debug\netcoreapp3.1\01. FlowerWreaths.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\obj\Debug\netcoreapp3.1\01. FlowerWreaths.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\obj\Debug\netcoreapp3.1\01. FlowerWreaths.dll
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\obj\Debug\netcoreapp3.1\01. FlowerWreaths.pdb
+D:\C# Advanced\CSharpAdvancedExam - 19August2020\01. FlowerWreaths\obj\Debug\netcoreapp3.1\01. FlowerWreaths.genruntimeconfig.cache

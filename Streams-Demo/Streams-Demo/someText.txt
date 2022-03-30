@@ -1,0 +1,27 @@
+;metsyS gnisu
+;OI.metsyS gnisu
+
+omeD_smaertS ecapseman
+{
+margorP ssalc    
+{    
+)sgra ][gnirts(niaM diov citats        
+{        
+))"sc.margorP/omeD-smaertS/omeD-smaertS/decnavdA #C/:D"(redaeRmaertS wen = redaer rav( gnisu            
+{            
+))"txt.txeTemos/omeD-smaertS/omeD-smaertS/decnavdA #C/:D"(retirWmaertS wen = retirw rav( gnisu                
+{                
+;enil gnirts                    
+)llun =! ))(eniLdaeR.redaer = enil(( elihw                    
+{                    
+)--tnuoc ;0 => tnuoc ;1-htgneL.enil = tnuoc tni( rof                        
+{                        
+;)]tnuoc[enil(etirW.retirw                            
+}                        
+;)(eniLetirW.retirw                        
+}                    
+                }                
+}            
+}        
+}    
+}

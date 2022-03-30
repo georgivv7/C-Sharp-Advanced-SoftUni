@@ -1,0 +1,16 @@
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\bin\Debug\net5.0\02. AverageStudentGrades.exe
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\bin\Debug\net5.0\02. AverageStudentGrades.deps.json
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\bin\Debug\net5.0\02. AverageStudentGrades.runtimeconfig.json
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\bin\Debug\net5.0\02. AverageStudentGrades.runtimeconfig.dev.json
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\bin\Debug\net5.0\02. AverageStudentGrades.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\bin\Debug\net5.0\ref\02. AverageStudentGrades.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\bin\Debug\net5.0\02. AverageStudentGrades.pdb
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\obj\Debug\net5.0\02. AverageStudentGrades.csprojAssemblyReference.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\obj\Debug\net5.0\02. AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\obj\Debug\net5.0\02. AverageStudentGrades.AssemblyInfoInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\obj\Debug\net5.0\02. AverageStudentGrades.AssemblyInfo.cs
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\obj\Debug\net5.0\02. AverageStudentGrades.csproj.CoreCompileInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\obj\Debug\net5.0\02. AverageStudentGrades.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\obj\Debug\net5.0\ref\02. AverageStudentGrades.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\obj\Debug\net5.0\02. AverageStudentGrades.pdb
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrades\obj\Debug\net5.0\02. AverageStudentGrades.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\bin\Debug\netcoreapp3.1\03. GreedyTimes.exe
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\bin\Debug\netcoreapp3.1\03. GreedyTimes.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\bin\Debug\netcoreapp3.1\03. GreedyTimes.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\bin\Debug\netcoreapp3.1\03. GreedyTimes.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\bin\Debug\netcoreapp3.1\03. GreedyTimes.dll
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\bin\Debug\netcoreapp3.1\03. GreedyTimes.pdb
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\obj\Debug\netcoreapp3.1\03. GreedyTimes.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\obj\Debug\netcoreapp3.1\03. GreedyTimes.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\obj\Debug\netcoreapp3.1\03. GreedyTimes.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\obj\Debug\netcoreapp3.1\03. GreedyTimes.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\obj\Debug\netcoreapp3.1\03. GreedyTimes.dll
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\obj\Debug\netcoreapp3.1\03. GreedyTimes.pdb
+D:\C# Advanced\CSharpAdvancedExam - 3September2017\03. GreedyTimes\obj\Debug\netcoreapp3.1\03. GreedyTimes.genruntimeconfig.cache

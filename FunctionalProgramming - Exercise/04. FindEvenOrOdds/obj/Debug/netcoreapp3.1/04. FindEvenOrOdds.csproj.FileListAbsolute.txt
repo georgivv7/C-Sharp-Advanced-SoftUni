@@ -1,0 +1,12 @@
+D:\C# Advanced\FunctionalProgramming - Exercise\04. FindEvenOrOdds\bin\Debug\netcoreapp3.1\04. FindEvenOrOdds.exe
+D:\C# Advanced\FunctionalProgramming - Exercise\04. FindEvenOrOdds\bin\Debug\netcoreapp3.1\04. FindEvenOrOdds.deps.json
+D:\C# Advanced\FunctionalProgramming - Exercise\04. FindEvenOrOdds\bin\Debug\netcoreapp3.1\04. FindEvenOrOdds.runtimeconfig.json
+D:\C# Advanced\FunctionalProgramming - Exercise\04. FindEvenOrOdds\bin\Debug\netcoreapp3.1\04. FindEvenOrOdds.runtimeconfig.dev.json
+D:\C# Advanced\FunctionalProgramming - Exercise\04. FindEvenOrOdds\bin\Debug\netcoreapp3.1\04. FindEvenOrOdds.dll
+D:\C# Advanced\FunctionalProgramming - Exercise\04. FindEvenOrOdds\bin\Debug\netcoreapp3.1\04. FindEvenOrOdds.pdb
+D:\C# Advanced\FunctionalProgramming - Exercise\04. FindEvenOrOdds\obj\Debug\netcoreapp3.1\04. FindEvenOrOdds.AssemblyInfoInputs.cache
+D:\C# Advanced\FunctionalProgramming - Exercise\04. FindEvenOrOdds\obj\Debug\netcoreapp3.1\04. FindEvenOrOdds.AssemblyInfo.cs
+D:\C# Advanced\FunctionalProgramming - Exercise\04. FindEvenOrOdds\obj\Debug\netcoreapp3.1\04. FindEvenOrOdds.csproj.CoreCompileInputs.cache
+D:\C# Advanced\FunctionalProgramming - Exercise\04. FindEvenOrOdds\obj\Debug\netcoreapp3.1\04. FindEvenOrOdds.dll
+D:\C# Advanced\FunctionalProgramming - Exercise\04. FindEvenOrOdds\obj\Debug\netcoreapp3.1\04. FindEvenOrOdds.pdb
+D:\C# Advanced\FunctionalProgramming - Exercise\04. FindEvenOrOdds\obj\Debug\netcoreapp3.1\04. FindEvenOrOdds.genruntimeconfig.cache

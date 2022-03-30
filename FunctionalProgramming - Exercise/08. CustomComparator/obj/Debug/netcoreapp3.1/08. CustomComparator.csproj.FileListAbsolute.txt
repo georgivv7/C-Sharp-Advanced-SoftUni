@@ -1,0 +1,13 @@
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\bin\Debug\netcoreapp3.1\08. CustomComparator.exe
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\bin\Debug\netcoreapp3.1\08. CustomComparator.deps.json
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\bin\Debug\netcoreapp3.1\08. CustomComparator.runtimeconfig.json
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\bin\Debug\netcoreapp3.1\08. CustomComparator.runtimeconfig.dev.json
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\bin\Debug\netcoreapp3.1\08. CustomComparator.dll
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\bin\Debug\netcoreapp3.1\08. CustomComparator.pdb
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\obj\Debug\netcoreapp3.1\08. CustomComparator.csprojAssemblyReference.cache
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\obj\Debug\netcoreapp3.1\08. CustomComparator.AssemblyInfoInputs.cache
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\obj\Debug\netcoreapp3.1\08. CustomComparator.AssemblyInfo.cs
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\obj\Debug\netcoreapp3.1\08. CustomComparator.csproj.CoreCompileInputs.cache
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\obj\Debug\netcoreapp3.1\08. CustomComparator.dll
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\obj\Debug\netcoreapp3.1\08. CustomComparator.pdb
+D:\C# Advanced\FunctionalProgramming - Exercise\08. CustomComparator\obj\Debug\netcoreapp3.1\08. CustomComparator.genruntimeconfig.cache

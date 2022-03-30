@@ -1,0 +1,13 @@
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\bin\Debug\netcoreapp3.1\02. AverageStudentGrade.exe
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\bin\Debug\netcoreapp3.1\02. AverageStudentGrade.deps.json
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\bin\Debug\netcoreapp3.1\02. AverageStudentGrade.runtimeconfig.json
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\bin\Debug\netcoreapp3.1\02. AverageStudentGrade.runtimeconfig.dev.json
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\bin\Debug\netcoreapp3.1\02. AverageStudentGrade.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\bin\Debug\netcoreapp3.1\02. AverageStudentGrade.pdb
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\obj\Debug\netcoreapp3.1\02. AverageStudentGrade.csprojAssemblyReference.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\obj\Debug\netcoreapp3.1\02. AverageStudentGrade.AssemblyInfoInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\obj\Debug\netcoreapp3.1\02. AverageStudentGrade.AssemblyInfo.cs
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\obj\Debug\netcoreapp3.1\02. AverageStudentGrade.csproj.CoreCompileInputs.cache
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\obj\Debug\netcoreapp3.1\02. AverageStudentGrade.dll
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\obj\Debug\netcoreapp3.1\02. AverageStudentGrade.pdb
+D:\C# Advanced\SetsAndDictionariesAdvanced - Lab\02. AverageStudentGrade\obj\Debug\netcoreapp3.1\02. AverageStudentGrade.genruntimeconfig.cache

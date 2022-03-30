@@ -1,0 +1,13 @@
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\bin\Debug\netcoreapp3.1\01. DefineClassPerson.exe
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\bin\Debug\netcoreapp3.1\01. DefineClassPerson.deps.json
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\bin\Debug\netcoreapp3.1\01. DefineClassPerson.runtimeconfig.json
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\bin\Debug\netcoreapp3.1\01. DefineClassPerson.runtimeconfig.dev.json
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\bin\Debug\netcoreapp3.1\01. DefineClassPerson.dll
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\bin\Debug\netcoreapp3.1\01. DefineClassPerson.pdb
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\obj\Debug\netcoreapp3.1\01. DefineClassPerson.csprojAssemblyReference.cache
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\obj\Debug\netcoreapp3.1\01. DefineClassPerson.AssemblyInfoInputs.cache
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\obj\Debug\netcoreapp3.1\01. DefineClassPerson.AssemblyInfo.cs
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\obj\Debug\netcoreapp3.1\01. DefineClassPerson.csproj.CoreCompileInputs.cache
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\obj\Debug\netcoreapp3.1\01. DefineClassPerson.dll
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\obj\Debug\netcoreapp3.1\01. DefineClassPerson.pdb
+D:\C# Advanced\DefiningClasses - Exercise\01. DefineClassPerson\obj\Debug\netcoreapp3.1\01. DefineClassPerson.genruntimeconfig.cache

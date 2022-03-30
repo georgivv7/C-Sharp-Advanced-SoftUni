@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.exe
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.dll
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\bin\Debug\netcoreapp3.1\01. Lootbox.pdb
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.dll
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.pdb
+D:\C# Advanced\CSharpAdvancedExam - 22Feb2020\01. Lootbox\obj\Debug\netcoreapp3.1\01. Lootbox.genruntimeconfig.cache

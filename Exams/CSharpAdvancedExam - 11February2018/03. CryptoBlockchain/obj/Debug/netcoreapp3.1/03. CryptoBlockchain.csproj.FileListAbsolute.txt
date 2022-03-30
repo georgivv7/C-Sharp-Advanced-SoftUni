@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\bin\Debug\netcoreapp3.1\03. CryptoBlockchain.exe
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\bin\Debug\netcoreapp3.1\03. CryptoBlockchain.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\bin\Debug\netcoreapp3.1\03. CryptoBlockchain.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\bin\Debug\netcoreapp3.1\03. CryptoBlockchain.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\bin\Debug\netcoreapp3.1\03. CryptoBlockchain.dll
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\bin\Debug\netcoreapp3.1\03. CryptoBlockchain.pdb
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\obj\Debug\netcoreapp3.1\03. CryptoBlockchain.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\obj\Debug\netcoreapp3.1\03. CryptoBlockchain.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\obj\Debug\netcoreapp3.1\03. CryptoBlockchain.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\obj\Debug\netcoreapp3.1\03. CryptoBlockchain.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\obj\Debug\netcoreapp3.1\03. CryptoBlockchain.dll
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\obj\Debug\netcoreapp3.1\03. CryptoBlockchain.pdb
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\03. CryptoBlockchain\obj\Debug\netcoreapp3.1\03. CryptoBlockchain.genruntimeconfig.cache

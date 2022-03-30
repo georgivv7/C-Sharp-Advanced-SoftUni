@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.exe
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.dll
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\bin\Debug\netcoreapp3.1\01. Scheduling.pdb
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.dll
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.pdb
+D:\C# Advanced\CSharpAdvancedExam - 25October2020\01. Scheduling\obj\Debug\netcoreapp3.1\01. Scheduling.genruntimeconfig.cache

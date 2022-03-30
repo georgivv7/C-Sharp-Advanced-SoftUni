@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "04. TreasureMap/1.0.0": {
+        "runtime": {
+          "04. TreasureMap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "04. TreasureMap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

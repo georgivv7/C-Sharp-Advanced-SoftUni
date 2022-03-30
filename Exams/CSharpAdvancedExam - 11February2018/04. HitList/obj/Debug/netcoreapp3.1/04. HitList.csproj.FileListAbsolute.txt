@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\bin\Debug\netcoreapp3.1\04. HitList.exe
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\bin\Debug\netcoreapp3.1\04. HitList.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\bin\Debug\netcoreapp3.1\04. HitList.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\bin\Debug\netcoreapp3.1\04. HitList.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\bin\Debug\netcoreapp3.1\04. HitList.dll
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\bin\Debug\netcoreapp3.1\04. HitList.pdb
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\obj\Debug\netcoreapp3.1\04. HitList.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\obj\Debug\netcoreapp3.1\04. HitList.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\obj\Debug\netcoreapp3.1\04. HitList.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\obj\Debug\netcoreapp3.1\04. HitList.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\obj\Debug\netcoreapp3.1\04. HitList.dll
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\obj\Debug\netcoreapp3.1\04. HitList.pdb
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\04. HitList\obj\Debug\netcoreapp3.1\04. HitList.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\bin\Debug\netcoreapp3.1\02. Sneaking.exe
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\bin\Debug\netcoreapp3.1\02. Sneaking.deps.json
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\bin\Debug\netcoreapp3.1\02. Sneaking.runtimeconfig.json
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\bin\Debug\netcoreapp3.1\02. Sneaking.runtimeconfig.dev.json
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\bin\Debug\netcoreapp3.1\02. Sneaking.dll
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\bin\Debug\netcoreapp3.1\02. Sneaking.pdb
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\obj\Debug\netcoreapp3.1\02. Sneaking.csprojAssemblyReference.cache
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\obj\Debug\netcoreapp3.1\02. Sneaking.AssemblyInfoInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\obj\Debug\netcoreapp3.1\02. Sneaking.AssemblyInfo.cs
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\obj\Debug\netcoreapp3.1\02. Sneaking.csproj.CoreCompileInputs.cache
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\obj\Debug\netcoreapp3.1\02. Sneaking.dll
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\obj\Debug\netcoreapp3.1\02. Sneaking.pdb
+D:\C# Advanced\CSharpAdvancedExam - 11February2018\02. Sneaking\obj\Debug\netcoreapp3.1\02. Sneaking.genruntimeconfig.cache
